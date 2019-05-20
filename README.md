@@ -1,5 +1,9 @@
 # Memory Game Project
 
+This is a project I completed during phase 2 of the Grow With Google Scholarship program through Udacity.  Click index.html to play the game.  
+
+Following is the original Readme from Udacity with instructions to complete the project.  
+
 ## Table of Contents
 
 * [Instructions](#instructions)
